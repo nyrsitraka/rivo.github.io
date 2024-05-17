@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: CV RRANDRIA
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: RIVO
+last_name: RANDRIA
 
 # Status emoji
 status:
