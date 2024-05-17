@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Dr. en Réseaux et Télécoms
+role: Enseignant-Chercheur
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ISTIC, Université de Rennes
+    url: https://domotique.istic.univ-rennes1.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
