@@ -1,6 +1,6 @@
 ---
 # Display name
-title: R. RANDRIATSIFERANA
+title: R. Randriatsiferana
 
 # Name pronunciation (optional)
 name_pronunciation: 
