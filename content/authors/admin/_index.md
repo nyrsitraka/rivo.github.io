@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Internet of Things
 
 # Education to show in About widget
 education:
