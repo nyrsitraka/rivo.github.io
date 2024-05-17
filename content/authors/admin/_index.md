@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rivo RANDRIATSIFERANA
+title: R. RANDRIATSIFERANA
 
 # Name pronunciation (optional)
 name_pronunciation: 
