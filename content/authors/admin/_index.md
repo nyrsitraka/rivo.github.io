@@ -6,8 +6,8 @@ title: R. Randriatsiferana
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: RIVO
-last_name: RANDRIA
+first_name: Rivo
+last_name: RANDRIATSIFERANA
 
 # Status emoji
 status:
