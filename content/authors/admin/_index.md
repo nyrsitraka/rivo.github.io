@@ -22,7 +22,7 @@ role: Enseignant-Chercheur
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: ISTIC, Université de Rennes
-  url: https://domotique.istic.univ-rennes1.fr/fr
+    url: https://domotique.istic.univ-rennes1.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
